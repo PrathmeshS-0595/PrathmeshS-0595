@@ -5,7 +5,7 @@
 ### <h1> <h1 align="center"> 🤗 नमस्ते (Namaste)🙏🏻, I'm Prathmesh!! 🤩 </h1>
   </br>
 <img align="right" src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"  width="350" height="300"/>
-<h2 align="center"> About me </h2>
+<h2 align="center"> About me 🌱 </h2>
 <h2 align="center"> A self-motivated Java developer from India </h2>
 
 - 🔭 I’m currently persuing **full stack web developer course at Masai**.
@@ -13,8 +13,8 @@
 - 🤔 I’m looking for **full stack web developer role**.
 - 💬 Ask me about **JAVA, Spring and Mysql**
 - 📫 You can reach me at **prathmeshshelar13999@gmail.com**
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1TpsN9zJVs7Q-AJY1iP49pbb-Da6AYls-/view?usp=sharing)
--<li>:fire: Portfolio: <a href="https://prathmeshs-0595.github.io/"  target="_blank" >Visit</a></li>
+- 📫 Checkout my: [Resume](https://drive.google.com/file/d/1TpsN9zJVs7Q-AJY1iP49pbb-Da6AYls-/view?usp=sharing)
+-<li>:fire: Checkout my: <a href="https://prathmeshs-0595.github.io/"  target="_blank" >Portfolio</a></li>
 - 😄 Pronouns: HE/HIS/HIM 
 - ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know & Second , always follow first rule**
 
