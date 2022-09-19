@@ -2,9 +2,9 @@
 
 <!-- **PrathmeshS-0595/PrathmeshS-0595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### <h1> <h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Prathmesh!!</h1>
+### <h1> <h1 align="center"> 🤗 नमस्ते (Namaste)🙏🏻, I'm Prathmesh!! 🤩 </h1>
   </br>
-<img align="right" src="[https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif)" width="300" height="200"/>
+<img align="right" src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"  width="350" height="300"/>
 </br></br></br>
 
 
@@ -48,7 +48,6 @@
    
   <a href="www.linkedin.com/in/prathmesh-shelar-a054b9144" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
 </p>
-----------------------------------------
 <h2><i>My GitHub Stats</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathmeshS-0595&label=Profile%20views&color=0e75b6&style=flat" alt="PrathmeshS-0595" /> </p>
 <p>
