@@ -2,19 +2,6 @@
 
 <!-- **PrathmeshS-0595/PrathmeshS-0595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gauravtambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravtambe" height="30" width="40" /></a>
-
-
-
 ### <h1> <h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Prathmesh!!</h1>
   </br>
 <img align="right" src="[https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif)" width="300" height="200"/>
@@ -42,7 +29,8 @@
 
 ![HTML5](https://img.shields.io/badge/html-HTML5-yellow)
 ![CSS3](https://img.shields.io/badge/css-CSS3-brightgreen)
-
+![Java](https://img.shields.io/badge/Java-v08-orange)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-v2.7.0-green)
 
 
 
