@@ -5,7 +5,6 @@
 ### <h1> <h1 align="center"> 🤗 नमस्ते (Namaste)🙏🏻, I'm Prathmesh!! 🤩 </h1>
   </br>
 <img align="right" src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"  width="350" height="300"/>
-</br>
 <h2 align="center"> About me </h2>
 <h2 align="center"> A self-motivated Java developer from India </h2>
 
