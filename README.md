@@ -5,19 +5,19 @@
 ### <h1> <h1 align="center"> 🤗 नमस्ते (Namaste)🙏🏻, I'm Prathmesh!! 🤩 </h1>
   </br>
 <img align="right" src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"  width="350" height="300"/>
-</br></br></br>
-
-
-### About me:
-<h3 align="center">A self-motivated Java developer from India</h3>
+</br>
+<h2 align="center"> About me </h2>
+<h2 align="center"> A self-motivated Java developer from India </h2>
 
 - 🔭 I’m currently persuing **full stack web developer course at Masai**.
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for **full stack web developer role**.
 - 💬 Ask me about **JAVA, Spring and Mysql**
 - 📫 You can reach me at **prathmeshshelar13999@gmail.com**
-- 😄 Pronouns: He/HIS
-- ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know.Second , always follow first rule**
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1TpsN9zJVs7Q-AJY1iP49pbb-Da6AYls-/view?usp=sharing)
+-<li>:fire: Portfolio: <a href="https://prathmeshs-0595.github.io/"  target="_blank" >Visit</a></li>
+- 😄 Pronouns: HE/HIS/HIM 
+- ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know & Second , always follow first rule**
 
 
 # *I am willing to collaborate as a team player building better code.*
@@ -27,10 +27,12 @@
 
 ### I know more about- 
 
-![HTML5](https://img.shields.io/badge/html-HTML5-yellow)
-![CSS3](https://img.shields.io/badge/css-CSS3-brightgreen)
 ![Java](https://img.shields.io/badge/Java-v08-orange)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-v2.7.0-green)
+![MySql](https://img.shields.io/badge/MySql-v8.0.30-blue)
+![HTML5](https://img.shields.io/badge/html-HTML5-yellow)
+![CSS3](https://img.shields.io/badge/css-CSS3-brightgreen)
+
 
 
 
