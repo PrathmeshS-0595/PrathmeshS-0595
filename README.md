@@ -47,7 +47,7 @@
 
   <p align="center">
    
-  <a href="www.linkedin.com/in/prathmesh-shelar-pps2713" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/prathmesh-shelar-pps2713/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
 </p>
 <h2><i>My GitHub Stats</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathmeshS-0595&label=Profile%20views&color=0e75b6&style=flat" alt="PrathmeshS-0595" /> </p>
