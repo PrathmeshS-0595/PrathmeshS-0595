@@ -2,7 +2,7 @@
 
 <!-- **PrathmeshS-0595/PrathmeshS-0595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### <h1> <h1 align="center"> 🤗 नमस्ते (Namaste)🙏🏻, I'm Prathmesh!!! 🤩 </h1>
+### <h1> <h1 align="center"> 🤗 नमस्ते (Namaste)🙏🏻, I'm Prathmesh !!! 🤩 </h1>
   </br>
 <img align="right" src="https://webbuildinfotech.com/wp-content/uploads/2022/07/Professional_full_stack_web_development_service_in_Bangladesh-_Full_stack_web_developer.gif"  width="350" height="300"/>
 <h2 align="center"> About me 🌱 </h2>
