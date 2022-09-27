@@ -50,6 +50,16 @@
   <a href="https://www.linkedin.com/in/prathmesh-shelar-pps2713/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
    <a href="https://www.linkedin.com/in/prathmesh-shelar-pps2713/" alt="email"><img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon-thumbnail.png" height="30" width="30"></a>
 </p>
+
+<p>
+    <a href="https://github.com/faizanghani2222/Jio-Mart-Clone-">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizanghani2222&repo=Jio-Mart-Clone-&locale=en&border_radius=0&theme=dark" alt="faizanghani2222" />
+    </a>
+    <a href="https://github.com/itsme-brijeshrai/InstaCart-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsme-brijeshrai&repo=InstaCart-Clone&locale=en&border_radius=0&theme=dark" alt="itsme-brijeshrai" />
+    </a>     
+    </p>
+
 <h2><i>My GitHub Stats</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathmeshS-0595&label=Profile%20views&color=0e75b6&style=flat" alt="PrathmeshS-0595" /> </p>
 <p>
