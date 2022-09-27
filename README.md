@@ -55,8 +55,8 @@
     <a href="https://github.com/faizanghani2222/Jio-Mart-Clone-">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizanghani2222&repo=Jio-Mart-Clone-&locale=en&border_radius=0&theme=dark" alt="faizanghani2222" />
     </a>
-    <a href="https://github.com/itsme-brijeshrai/InstaCart-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsme-brijeshrai&repo=InstaCart-Clone&locale=en&border_radius=0&theme=dark" alt="itsme-brijeshrai" />
+    <a href="https://github.com/jagtapyogesh41/Kimaye_clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jagtapyogesh41&repo=Kimaye_clone&locale=en&border_radius=0&theme=dark" alt="itsme-brijeshrai" />
     </a>     
     </p>
 
