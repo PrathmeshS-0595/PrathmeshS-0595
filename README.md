@@ -48,14 +48,15 @@
   <p align="center">
    
   <a href="https://www.linkedin.com/in/prathmesh-shelar-pps2713/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-   <a href="https://www.linkedin.com/in/prathmesh-shelar-pps2713/" alt="email"><img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon-thumbnail.png" height="30" width="30"></a>
+   <a  href="mailto:prathmeshshelar13999@gmail.com/" alt="email">
+   <img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon-thumbnail.png" height="30" width="30"></a>
 </p>
 
 <p>
     <a href="https://github.com/faizanghani2222/Jio-Mart-Clone-">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizanghani2222&repo=Jio-Mart-Clone-&locale=en&border_radius=0&theme=dark" alt="faizanghani2222" />
     </a>
-    <a href="https://github.com/jagtapyogesh41/Kimaye_clone">
+    <a href="https://github.com/jagtapyogesh41/Kimaye_clone"
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jagtapyogesh41&repo=Kimaye_clone&locale=en&border_radius=0&theme=dark" alt="itsme-brijeshrai" />
     </a>     
     </p>
