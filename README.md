@@ -15,7 +15,7 @@
 - 📫 You can reach me at **prathmeshshelar13999@gmail.com**
 - 📫 Checkout my: [Resume](https://drive.google.com/file/d/1TpsN9zJVs7Q-AJY1iP49pbb-Da6AYls-/view?usp=sharing)
 -<li>:fire: Checkout my: <a href="https://prathmeshs-0595.github.io/"  target="_blank" >Portfolio</a></li>
-- 😄 Pronouns: HE/HIS/HIM 
+- 😄 Pronounse: HE/HIS/HIM 
 - ⚡ Fun fact: **There are 2 rules to success. First, never tell anyone everything you know & Second , always follow first rule**
 
 
