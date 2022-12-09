@@ -31,6 +31,10 @@
 ![MySql](https://img.shields.io/badge/MySql-v8.0.30-blue)
 ![HTML5](https://img.shields.io/badge/html-HTML5-yellow)
 ![CSS3](https://img.shields.io/badge/css-CSS3-brightgreen)
+<a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.png" alt="spring" width="120" height="35"  /></a>
+ <a href="#"><img src="https://www.devteam.space/wp-content/uploads/2018/05/hibernate.jpg" alt="hibernate" width="120" height="35"  /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /></a>
+   
 
 
 
@@ -40,6 +44,7 @@
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+ <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /></a>
 
 
 <p align="left">
@@ -47,19 +52,10 @@
 
   <p align="center">
    
-  <a href="https://www.linkedin.com/in/prathmesh-shelar-pps2713/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/prathmesh-shelar-pps2713/" alt="Linkedin"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcZTwDvlr8CotflQlqduv0mdk2qziF6GkrTg&usqp=CAU" height="30" width="30"></a>
    <a  href="mailto:prathmeshshelar13999@gmail.com/" alt="email">
    <img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon-thumbnail.png" height="30" width="30"></a>
 </p>
-
-<p>
-    <a href="https://github.com/faizanghani2222/Jio-Mart-Clone-">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizanghani2222&repo=Jio-Mart-Clone-&locale=en&border_radius=0&theme=dark" alt="faizanghani2222" />
-    </a>
-    <a href="https://github.com/jagtapyogesh41/Kimaye_clone"
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jagtapyogesh41&repo=Kimaye_clone&locale=en&border_radius=0&theme=dark" alt="itsme-brijeshrai" />
-    </a>     
-    </p>
 
 <h2><i>My GitHub Stats</i></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathmeshS-0595&label=Profile%20views&color=0e75b6&style=flat" alt="PrathmeshS-0595" /> </p>
